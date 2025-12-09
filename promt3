@@ -1,0 +1,3 @@
+message = "траляля"
+print(message)
+
